@@ -5,14 +5,11 @@
 Advanced and customizable Audio Visualizer for [lively wallpaper](https://rocksdanister.github.io/lively/) (similar to Wallpaper Engine)  
 See example configurations and demonstration below!
 
-[![Github all releases](https://img.shields.io/github/downloads/elias123tre/lively-audio-visualizer/total.svg?style=flat-square&label=total%20downloads)](https://github.com/elias123tre/lively-audio-visualizer/releases/latest/download/Circle-Audio-Visualizer.zip)
-
-
 ## How to download
 
-[![Download icon](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Download&query=%24.tag_name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Felias123tre%2Flively-audio-visualizer%2Freleases%2Flatest&style=for-the-badge)](https://github.com/elias123tre/lively-audio-visualizer/releases/latest/download/Circle-Audio-Visualizer.zip)
+[![Download icon](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Download&query=%24.tag_name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Felias123tre%2Flively-audio-visualizer%2Freleases%2Flatest&style=for-the-badge)](https://github.com/lorenblue/lively-audio-visualizer-flipped/releases/download/3.1.0/Circle-Audio-Visualizer-Flipped.zip)
 
-1. Download the [lively wallpaper file](https://github.com/elias123tre/lively-audio-visualizer/releases/latest/download/Circle-Audio-Visualizer.zip)
+1. Download the [lively wallpaper file](https://github.com/lorenblue/lively-audio-visualizer-flipped/releases/download/3.1.0/Circle-Audio-Visualizer-Flipped.zip)
 2. Drag and drop the downloaded file into lively
 
 ## Demonstration
