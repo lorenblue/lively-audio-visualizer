@@ -7,8 +7,6 @@ See example configurations and demonstration below!
 
 ## How to download
 
-[![Download icon](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Download&query=%24.tag_name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Felias123tre%2Flively-audio-visualizer%2Freleases%2Flatest&style=for-the-badge)](https://github.com/lorenblue/lively-audio-visualizer-flipped/releases/download/3.1.0/Circle-Audio-Visualizer-Flipped.zip)
-
 1. Download the [lively wallpaper file](https://github.com/lorenblue/lively-audio-visualizer-flipped/releases/download/3.1.0/Circle-Audio-Visualizer-Flipped.zip)
 2. Drag and drop the downloaded file into lively
 
