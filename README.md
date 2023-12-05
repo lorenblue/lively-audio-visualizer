@@ -7,8 +7,8 @@ See example configurations and demonstration below!
 
 ## How to download
 
-1. Download this repo as .zip
-2. Drag and drop the downloaded file into lively
+1. Download this repo and create a zip of its contents
+2. Drag and drop the zip into lively
 
 ## Demonstration
 
