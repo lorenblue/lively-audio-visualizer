@@ -1,6 +1,6 @@
 # Lively Audio Visualizer - FLIPPED
 
-> Visualizer rotated 180 degrees so bass is on the bottom.
+Visualizer rotated 180 degrees so bass is on the bottom.
 
 ## How to download
 
