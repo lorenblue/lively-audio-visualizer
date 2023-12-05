@@ -5,9 +5,6 @@
 Advanced and customizable Audio Visualizer for [lively wallpaper](https://rocksdanister.github.io/lively/) (similar to Wallpaper Engine)  
 See example configurations and demonstration below!
 
-[![Github all releases](https://img.shields.io/github/downloads/elias123tre/lively-audio-visualizer/total.svg?style=flat-square&label=total%20downloads)](https://github.com/elias123tre/lively-audio-visualizer/releases/latest/download/Circle-Audio-Visualizer.zip)
-
-
 ## How to download
 
 1. Download this repo as .zip
