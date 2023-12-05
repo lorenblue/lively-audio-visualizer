@@ -81,11 +81,11 @@ function livelyAudioListener(audioArray) {
     // Draw each bar
     audio.map((val, index, arr) => {
       let ratio = (index + 0.5) / arr.length
-      let halfRatio = Math.abs(((index / (arr.length / 2)) % (arr.length / 2)) - 1)
+      let halfRatio = 1 - Math.abs(((index / (arr.length / 2)) % (arr.length / 2)) - 1)
       ctx.beginPath()
       ctx.translate(xPos, yPos)
       // Rotate each bar
-      ctx.rotate(2 * Math.PI * ratio)
+      ctx.rotate(2 * Math.PI * ratio + Math.PI)
 
       // Color from given hue, saturation, lightness
       let color = `hsl(${
